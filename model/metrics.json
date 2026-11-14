@@ -1,0 +1,19 @@
+{
+    "dataset": "Built-in sample",
+    "n_train": 19,
+    "n_test": 5,
+    "selected_model": "Logistic Regression",
+    "test": {
+        "Logistic Regression": {
+            "accuracy": 0.8,
+            "precision": 0.6666666666666666,
+            "recall": 1.0,
+            "f1": 0.8,
+            "roc_auc": 1.0
+        }
+    },
+    "warnings": [
+        "Performance on this test split does not guarantee real-world accuracy.",
+        "Independent evaluation on unseen news sources is still required."
+    ]
+}
