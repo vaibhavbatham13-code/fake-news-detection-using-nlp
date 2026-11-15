@@ -1,15 +1,15 @@
 {
-    "dataset": "Built-in sample",
-    "n_train": 19,
-    "n_test": 5,
+    "dataset": "Kaggle Fake and Real News",
+    "n_train": 31060,
+    "n_test": 7766,
     "selected_model": "Logistic Regression",
     "test": {
         "Logistic Regression": {
-            "accuracy": 0.8,
-            "precision": 0.6666666666666666,
-            "recall": 1.0,
-            "f1": 0.8,
-            "roc_auc": 1.0
+            "accuracy": 0.9857069276332733,
+            "precision": 0.9857182861943433,
+            "recall": 0.9832402234636871,
+            "f1": 0.984477695427213,
+            "roc_auc": 0.9982629648709319
         }
     },
     "warnings": [

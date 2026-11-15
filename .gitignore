@@ -6,7 +6,7 @@ venv/
 .env.*
 !.env.example
 data/*.csv
-model/*.joblib
+!model/fake_news_model.joblib
 .idea/
 .DS_Store
 Thumbs.db
